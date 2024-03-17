@@ -9,6 +9,9 @@
 ![RetailPricingAnalytics](https://github.com/hritvikgupta/Anlysis-Porjects/assets/60143996/36813ecd-5d7a-4977-9fb3-0c55e2f8bda4)
 ![E-commerceRetail](https://github.com/hritvikgupta/Anlysis-Porjects/assets/60143996/40ca4bfa-093a-4ac7-970d-d49086f9878e)
 
+### Excel -
+Kindly download these Excel files from this repository and view them in Microsoft Excel.
+**Sales Superstore Sample: Sales Performance Dashboard**
 
 ![Dashboards](https://github.com/hritvikgupta/Anlysis-Porjects/assets/60143996/2fe4b14c-acd8-4375-865a-a21a69c37fb8)
 ![PivotReports](https://github.com/hritvikgupta/Anlysis-Porjects/assets/60143996/ba847b87-5623-459e-b655-01f83e7cc012)
